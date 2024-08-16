@@ -25,8 +25,8 @@ The RAG system is designed to enhance the capabilities of large language models 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rag-gemini.git
-   cd rag-gemini
+   https://github.com/avirooppal/RAG-Gemini.git
+   cd RAG-gemini
    ```
 
 2. **Install required Python packages:**
